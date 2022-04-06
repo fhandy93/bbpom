@@ -3,3 +3,5 @@ Belajar repo github
 -belajar branch
 -belajar fork
 -belajar git
+-implementasi git di proje
+-upload project
