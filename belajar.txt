@@ -1,7 +1,7 @@
 Belajar repo github
 -membuat file
--belajar branch
 -belajar fork
 -belajar git
 -implementasi git di proje
 -upload project
+-membuat branch baru
